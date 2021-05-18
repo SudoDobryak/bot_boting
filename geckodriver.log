@@ -753,3 +753,4 @@ peError: this.currentSession is null
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1621340334715	geckodriver	INFO	Listening on 127.0.0.1:59886
